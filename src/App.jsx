@@ -6,6 +6,7 @@ import Technologies from './components/Technologies';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Getintouch from './components/Getintouch';
+import Pub from './components/Pub';
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
         <About/>
         <Technologies/>
         <Experience/>
+        <Pub/>
         <Projects/>
         <Getintouch/>
       </div>
